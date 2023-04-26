@@ -39,7 +39,7 @@ Running this visualization locally requires the [R programming language](https:/
 
 After installing R, enter an R session and install the required packages
 ```
-install.packages(c("tidyverse", "shiny", "visNetwork", "shinythemes", "circlize", "igraph"))
+install.packages(c("tidyverse", "RColorBrewer", "shiny", "visNetwork", "shinythemes", "circlize", "igraph","markdown"))
 
 source("https://bioconductor.org/biocLite.R")
 biocLite("ComplexHeatmap")
