@@ -1,6 +1,8 @@
 # FunGeneNetwork
 Functional gene network visualization used in Boyle et al. 2018, Molecular Systems Biology
 
+Browse online [here](https://greenleaf.shinyapps.io/cofunctional_app_18Q4)
+
 ![image](https://user-images.githubusercontent.com/6108583/234717896-bf00bb49-e03e-46a2-8d51-52598ded2328.png)
 
 Visualize 1,528,726 co-essential genetic interactions among 17,634 genes (0.98% of all possible pairs)
